@@ -21,8 +21,8 @@ Learn from the Udemy class - [MERN Stack Front To Back: Full Stack React, Redux 
 ### Back End
 - [Express](https://expressjs.com/): For creating extensive APIs
 - [Node.js](https://nodejs.org/en/): Build extensive backend
-- [JWT](https://jwt.io/) : For user authorization and protecting routes/endpoints
-- [Postman](https://www.postman.com/) : For API testing
+- [JWT](https://jwt.io/): For user authorization and protecting routes/endpoints
+- [Postman](https://www.postman.com/): For API testing
 
 ### Database
 - [MongoDB](https://account.mongodb.com/account/login?n=%2Fv2%2F62b73b686bf31f69a85d6b05&nextHash=%23metrics%2FreplicaSet%2F62b7700762f17275f0e53054%2Fexplorer%2Ftest%2Fusers%2Ffind) using [mongoose](https://mongoosejs.com/) (an elegant mongodb object modeling for node.js)
