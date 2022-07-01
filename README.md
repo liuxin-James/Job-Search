@@ -1,4 +1,4 @@
-# Job Search demo website (credit to [*Brad Traversy*](https://github.com/bradtraversy))
+# Job Search Website (credit to [*Brad Traversy*](https://github.com/bradtraversy))
 
 Learn from the Udemy class - [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://www.udemy.com/course/mern-stack-front-to-back/?src=sac&subs_filter_type=subs_only&kw=MERN+Stack+Front+To+Back%3A+Full+Stack+React%2C+Redux+%26+Node.js). This is the description from this course:
 - Building an extensive backend API with Node.js & Express
