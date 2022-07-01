@@ -9,7 +9,6 @@ const auth = require('../../middleware/auth');
 const User = require('../../models/User');
 const Profile = require('../../models/Profile');
 const Post = require('../../models/Post');
-const { response } = require('express');
 
 // @route GET api/profile/me
 // @desc Get current users profile
