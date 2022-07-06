@@ -13,7 +13,7 @@ Learn from the Udemy class - [MERN Stack Front To Back: Full Stack React, Redux 
 
 *Creating a build script, securing our keys and deploy to Heroku using Git.*
 
-**Based on the basic requirements on this course, I add new features and functions to implement my job search website.**
+**Based on the basic requirements on this course, I add new features and functions to implement my job search website similar to Linkedin.**
 1. Login / Register
 2. Job candidate profiles (experiences, education, github repos, skill sets, email, name, photos, etc)
 3. Dashborad to show every candidate
